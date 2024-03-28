@@ -1,0 +1,54 @@
+read_line(path)
+
+a 
+b 
+c 
+
+const dfsgfd=(obj,int)=>{
+    let count = 0;
+    let input = '';
+    
+ while ( count < int && input != null){
+     input = read_line(path);
+     
+     if (input){
+        console.log(read_line(path))
+     }
+     count++;
+ }  
+}
+
+const last=(file, n)=>{
+    let arr = [];
+    // let count = 0;
+    let input = '';
+    
+ while ( input != null){
+     input = read_line(path);  
+     
+     if(input){
+         arr.push(input);
+         if (arr.length >n ){ arr.unshift() }
+     }
+     else{
+         console.log(arr);
+     }
+    //  count++;
+}
+
+array = Array(5)
+array[5]
+array[4] = 3
+
+
+const last2 = (file,n)=>{
+    let arr[n];
+    
+}
+
+
+[g,h,i] sec
+[j,e,f] pri
+
+
+f, g, h
